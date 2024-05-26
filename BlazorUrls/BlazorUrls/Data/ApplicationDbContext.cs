@@ -17,6 +17,7 @@ namespace BlazorUrls.Data
                 .IsUnique();
 
 
+
         }
     }
 }
